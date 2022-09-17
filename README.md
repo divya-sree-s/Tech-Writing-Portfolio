@@ -1,6 +1,6 @@
 # Technical Content Marketing
 ## About Me: 
-Hello, my name is Divyasree, and I work as a product marketing specialist. I started my career as a Java Developer and worked for leading enterprises like VMware and Cognizant. A passion for writing and product paved the way to author several technical content collaterals at VMware. Currently, I work and mentor a team of two as a product marketing specialist at Zoho in August 2019. 
+Hey! My name is Divyasree, and I work as a product marketing specialist. I started my career as a Java Developer and worked for leading enterprises like VMware and Cognizant. A passion for writing paved the way to author several technical content collaterals at VMware. Currently, I work as a product marketing specialist at Zoho and mentor a team of two.
 
 I love solving challenges at the intersection of product and customer success. My primary focus involves translating complex technical information into easy-to-understand ideas.  
 
