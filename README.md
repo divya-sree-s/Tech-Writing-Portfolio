@@ -1,16 +1,16 @@
-# Tech-Writing-Portfolio
+# Technical Content Marketing
 ## About Me: 
-Hello, my name is Divyasree, and I work as a technical writer. I started my career as a Java Developer and worked for leading enterprises like Cognizant and VMware. A passion for writing paved the way to author several content collaterals like feature updates and code workflow using Confluence. I landed a technical content marketing opportunity at Zoho, thereby kick-starting my technical writing career.  
+Hello, my name is Divyasree, and I work as a product marketing specialist. I started my career as a Java Developer and worked for leading enterprises like VMware and Cognizant. A passion for writing and product paved the way to author several technical content collaterals at VMware. Currently, I work and mentor a team of two as a product marketing specialist at Zoho in August 2019. 
 
-As a customer advocate, I love solving challenges at the intersection of content and customer success. My primary focus involves translating complex technical information into easy-to-understand ideas. 
+I love solving challenges at the intersection of product and customer success. My primary focus involves translating complex technical information into easy-to-understand ideas.  
 
-**Current Role:** Technical Writer
+**Current Role:** Product Marketing Specialist
 
 **Current Company:** Zoho
 
 **LinkedIn profile:** [Divyasree S](https://www.linkedin.com/in/divyasree-s/)
 
-**Total Years of Experience:** 6+ years _[Technical Writer + Application Developer]_
+**Total Years of Experience:** 6+ years
 
 ## Tech Blogs:
 
@@ -35,6 +35,7 @@ As a customer advocate, I love solving challenges at the intersection of content
 
 ## Web pages:
 
+* [Beginner's guide to serverless architecture](https://catalyst.zoho.com/serverless-architecture.html)
 * [AWS Budgeting and Forecasting](https://www.site24x7.com/cloudspend/budget-and-forecasts.html)
 * [Amazon Elastic Kubernetes Service(EKS) monitoring](https://www.site24x7.com/amazon-eks-monitoring.html)
 * [Amazon WorkSpaces monitoring](https://www.site24x7.com/amazon-workspaces-monitoring.html)
@@ -53,11 +54,11 @@ As a customer advocate, I love solving challenges at the intersection of content
 * [Monitor the infrastructure and apps that supports remote work](https://www.youtube.com/watch?v=j0IELedSzxY)
 * [Five cloud cost management strategies that work](https://www.youtube.com/watch?v=9PqK4r1iz5o)
 
-## Other Documentations
+## Other Content Collaterals
 
 View [this google sheet](https://docs.google.com/spreadsheets/d/1oFWYGDjrLXi2UxbMzsCku7QBtBz1Oh7y8SxSjjREzEU/edit#gid=0) for additional writing samples. Other content collateral that I'd authored include: 
-* User Guides
+
 * What's New Content
 * Knowledge Base Articles
 * In-app content like tool tips, field names, and error messages
-* Newsletter
+* Monthly Newsletter
