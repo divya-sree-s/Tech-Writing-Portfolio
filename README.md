@@ -5,12 +5,13 @@ Hey! My name is Divyasree, and I am a Technical Product Marketing Specialist. I 
 I love solving challenges at the intersection of product, business, and customer success. My primary focus involves translating complex technical information into easy-to-understand ideas.  
 
 **Current Role:** Product Marketing Specialist
-
 **Current Company:** Zoho
+
+**Total Years of Experience:** 7+ years
 
 **LinkedIn profile:** [Divyasree S](https://www.linkedin.com/in/divyasree-s/)
 
-**Total Years of Experience:** 7+ years
+**Tech stack:** Java, Python, Google Dialogflow, Generative AI specifically in Retrieval Augmented Generation (RAG)
 
 ## Tech Blogs:
 
