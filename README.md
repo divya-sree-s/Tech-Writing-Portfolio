@@ -16,7 +16,7 @@ I love solving challenges at the intersection of product, business, and customer
 
 ## Tech Blogs:
 
-* [Begineer's Guide to Serverless Architecture](https://catalyst.zoho.com/serverless-architecture.html)
+* [Beginner's Guide to Serverless Architecture](https://catalyst.zoho.com/serverless-architecture.html)
 * [Improve sales conversion using AI-based lead scoring](https://catalyst.zoho.com/blog/build-with-catalyst/improve-sales-conversion-using-AI-based-lead-scoring-in-Catalyst-QuickML.html)
 * [Legacy system modernization with Catalyst AppSail](https://catalyst.zoho.com/blog/build-with-catalyst/legacy-modernisation-with-AppSail-using-popular-development-framework.html)
 * [Improve healthcare service workflows using SmartBrowz](https://catalyst.zoho.com/blog/build-with-catalyst/improve-healthcare-services-workflows-using-smartbrowz.html)
