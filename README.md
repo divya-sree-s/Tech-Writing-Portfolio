@@ -12,7 +12,7 @@ I love solving challenges at the intersection of product, business, and customer
 
 **LinkedIn profile:** [Divyasree S](https://www.linkedin.com/in/divyasree-s/)
 
-**Tech stack:** Java, Python, Google Dialogflow, Generative AI specifically in Retrieval Augmented Generation (RAG)
+**Tech stack:** Java, Python, [Google Dialogflow](https://www.cloudskillsboost.google/public_profiles/ddb52235-9759-4f08-8bdc-41010bc79c06/badges/6810070), Generative AI specifically in Retrieval Augmented Generation (RAG)
 
 ## Tech Blogs:
 
