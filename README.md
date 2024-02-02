@@ -42,6 +42,7 @@ I revamped the Catalyst homepage for the v2.0 product launch by ideating multipl
 
 * [Catalyst Free Tier](https://catalyst.zoho.com/free-tier.html)
 * [Catalyst Free Trial](https://catalyst.zoho.com/catalyst-free-trial.html)
+* [Catalyst AppSail](https://catalyst.zoho.com/app-sail.html)
 * [Catalyst QuickML: No-Code Machine Learning Platform](https://catalyst.zoho.com/quickml.html)
 * [Catalyst ConvoKraft: Conversational AI platform](https://catalyst.zoho.com/convokraft.html)
 * [Catalyst SmartBrowz: Headless browser](https://catalyst.zoho.com/smartbrowz.html)
